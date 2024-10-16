@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
+
+// Added this comment for the assignment 
+
 /* 
  *   This is a c program to create a red and blue plain pixel map.
  *   Usage: 
